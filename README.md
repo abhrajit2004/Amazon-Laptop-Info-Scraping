@@ -26,3 +26,7 @@ A Python-based web scraper that extracts **laptop details (title, price and prod
 | **pandas** | Organizes and exports data (CSV/Excel) |
 
 ---
+
+## Video Preview
+Uploading 2025-11-13 00-06-52.mp4…
+
