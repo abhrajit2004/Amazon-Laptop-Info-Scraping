@@ -28,5 +28,7 @@ A Python-based web scraper that extracts **laptop details (title, price and prod
 ---
 
 ## Video Preview
-Uploading 2025-11-13 00-06-52.mp4…
+https://github.com/user-attachments/assets/358369b7-5d51-415e-9931-9ec2ade750a5
+
+
 
